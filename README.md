@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [FrontEnd Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62/hub/responsive-stats-preview-card-component-qshG56E06/solutions)
+- Live Site URL: [Vercel](https://stats-preview-card-component-gamma-jet.vercel.app)
 
 ## My process
 
@@ -48,7 +48,7 @@ I am still trying to learn how to fully make it responsive by seeing the items s
 
 ## Author
 
-- Website - [Charisse Calma](charissec.me)
+- Website - [Charisse Calma](https://charissec.me)
 - Frontend Mentor - [@gamercherrie](https://www.frontendmentor.io/profile/gamercherrie)
 - Twitter - [@btgrlcherrie](https://www.twitter.com/btgrlcherrie)
 
